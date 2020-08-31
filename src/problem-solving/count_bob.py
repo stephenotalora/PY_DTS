@@ -1,4 +1,4 @@
-def countBob(bobStr):
+def count_bob(bobStr):
     if not bobStr:
         return 0
 
