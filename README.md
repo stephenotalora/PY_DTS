@@ -1,3 +1,3 @@
 # PY_DTS
 
-Python repository for algoritms and code challenges
+Python repository for algorithms and code challenges
